@@ -14,6 +14,10 @@
       <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/src/main/java/hiber/service/UserServiceImp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/dao/UserDaoImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/dao/UserDaoImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/service/UserServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.1. spring_hibernate/target/classes/hiber/service/UserServiceImp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Admin/IdeaProjects/PP_2_2_1_spring_hibernate",
+    "nodejs_package_manager_path": "npm",
     "spring.configuration.checksum": "973519049f1dda9dcc3abb7a7e786282"
   }
 }]]></component>
@@ -77,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668056909871</updated>
       <workItem from="1668056911113" duration="57000" />
-      <workItem from="1668080791840" duration="1770000" />
+      <workItem from="1668080791840" duration="2076000" />
     </task>
     <servers />
   </component>
