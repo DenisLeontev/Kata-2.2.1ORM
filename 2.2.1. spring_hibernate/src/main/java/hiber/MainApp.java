@@ -42,7 +42,7 @@ public class MainApp {
          System.out.println();
       }
 
-      System.out.println("Найти владельцев \"Audi A5\"");
+      System.out.println("Найти владельцев \"Audi 5\"");
       System.out.println(userService.findOwner("Audi", 5));
 
       context.close();

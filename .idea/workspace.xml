@@ -48,9 +48,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/PP_2_2_1_spring_hibernate",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/PP_2_2_1_spring_hibernate_ORM",
     "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "51112298590477e90bbf9a568e4648b0"
+    "spring.configuration.checksum": "a5812eef8e592408db48db8865a12294"
   }
 }]]></component>
   <component name="RunManager">
@@ -84,6 +84,7 @@
       <workItem from="1668056911113" duration="57000" />
       <workItem from="1668080791840" duration="3181000" />
       <workItem from="1668084350119" duration="72000" />
+      <workItem from="1668084511544" duration="2185000" />
     </task>
     <servers />
   </component>
