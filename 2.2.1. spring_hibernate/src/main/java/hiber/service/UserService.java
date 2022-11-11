@@ -13,5 +13,4 @@ public interface UserService {
        @Transactional
        User findOwner(String car_model, int car_series);
 
-    void deleteAllUsers();
 }
