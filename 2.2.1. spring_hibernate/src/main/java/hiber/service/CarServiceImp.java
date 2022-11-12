@@ -7,7 +7,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-public class CarServiceImp implements CarService{
+public class CarServiceImp implements CarService {
 
     @Autowired
     private CarDao carDao;
@@ -18,9 +18,4 @@ public class CarServiceImp implements CarService{
         carDao.add(car);
     }
 
-//    @Transactional(readOnly = true)
-//    @Override
-//    public List<Car> listCars() {
-//        return carDao.listCars();
-//    }
 }
